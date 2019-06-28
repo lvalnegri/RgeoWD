@@ -1,0 +1,250 @@
+name,alt_name,cia_name,iso3,iso2,isoN,fips,x_lon,y_lat,area,pop,gdp,gdp_ppp,hdi,cpi,currency,capital,pop_cap,tld,tz,phone,iso_aff,region,continent,who_region,who_subregion,income_group
+Aruba,Aruba,Aruba,ABW,AW,533,AA,,,193,,,,,,AWG,Oranjestad,,aw,,,AW,Latin America and the Caribbean,Americas,,,High income
+Afghanistan,Afghanistan,Afghanistan,AFG,AF,4,AF,,,647500,,,,,,AFN,Kabul,,af,,,AF,Southern Asia,Asia,EMR,D,Low income
+Angola,Angola,Angola,AGO,AO,24,AO,,,1246700,,,,,,AOA,Luanda,,ao,,,AO,Sub-Saharan Africa,Africa,AFR,D,Lower middle income
+Anguilla,Anguilla,Anguilla,AIA,AI,660,AV,,,102,,,,,,XCD,The Valley,,ai,,,AI,Latin America and the Caribbean,Americas,,,
+Aland Islands,Aland Islands,,ALA,AX,248,,,,1580,,,,,,EUR,Mariehamn,,ax,,,FI,Northern Europe,Europe,,,
+Albania,Albania,Albania,ALB,AL,8,AL,,,28748,,,,,,ALL,Tirana,,al,,,AL,Southern Europe,Europe,EUR,B,Upper middle income
+Andorra,Andorra,Andorra,AND,AD,20,AN,,,468,,,,,,EUR,Andorra la Vella,,ad,,,AD,Southern Europe,Europe,EUR,A,High income
+Antarctica,Antarctica,Antarctica,AQ,AQ,,AY,,,,,,,,,,,,,,,,,,,,
+United Arab Emirates,United Arab Emirates,United Arab Emirates,ARE,AE,784,AE,,,82880,,,,,,AED,Abu Dhabi,,ae,,,AE,Western Asia,Asia,EMR,B,High income
+Argentina,Argentina,Argentina,ARG,AR,32,AR,,,2766890,,,,,,ARS,Buenos Aires,,ar,,,AR,Latin America and the Caribbean,Americas,AMR,B,High income
+Armenia,Armenia,Armenia,ARM,AM,51,AM,,,29800,,,,,,AMD,Yerevan,,am,,,AM,Western Asia,Asia,EUR,B,Upper middle income
+American Samoa,American Samoa,American Samoa,ASM,AS,16,AQ,,,199,,,,,,USD,Pago Pago,,as,,,US,Polynesia,Oceania,,,Upper middle income
+French Southern Territories,French Southern Territories,French Southern and Antarctic Lands,ATF,TF,260,FS,,,7829,,,,,,EUR,Port-aux-Francais,,tf,,,TF,Sub-Saharan Africa,Africa,,,
+Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,ATG,AG,28,AC,,,443,,,,,,XCD,St. John's,,ag,,,AG,Latin America and the Caribbean,Americas,AMR,B,High income
+Australia,Australia,Australia,AUS,AU,36,AS,,,7686850,,,,,,AUD,Canberra,,au,,,AU,Australia and New Zealand,Oceania,WPR,A,High income
+Austria,Austria,Austria,AUT,AT,40,AU,,,83858,,,,,,EUR,Vienna,,at,,,AT,Western Europe,Europe,EUR,A,High income
+Azerbaijan,Azerbaijan,Azerbaijan,AZE,AZ,31,AJ,,,86600,,,,,,AZN,Baku,,az,,,AZ,Western Asia,Asia,EUR,B,Upper middle income
+Burundi,Burundi,Burundi,BDI,BI,108,BY,,,27830,,,,,,BIF,Bujumbura,,bi,,,BI,Sub-Saharan Africa,Africa,AFR,E,Low income
+Belgium,Belgium,Belgium,BEL,BE,56,BE,,,30510,,,,,,EUR,Brussels,,be,,,BE,Western Europe,Europe,EUR,A,High income
+Benin,Benin,Benin,BEN,BJ,204,BN,,,112620,,,,,,XOF,Porto-Novo,,bj,,,BJ,Sub-Saharan Africa,Africa,AFR,D,Low income
+"Bonaire, Sint Eustatius and Saba",Caribbean Netherlands,,BES,BQ,535,,,,328,,,,,,USD,,,bq,,,NL,Latin America and the Caribbean,Americas,,,
+Burkina Faso,Burkina Faso,Burkina Faso,BFA,BF,854,UV,,,274200,,,,,,XOF,Ouagadougou,,bf,,,BF,Sub-Saharan Africa,Africa,AFR,D,Low income
+Bangladesh,Bangladesh,Bangladesh,BGD,BD,50,BG,,,144000,,,,,,BDT,Dhaka,,bd,,,BD,Southern Asia,Asia,SEAR,D,Lower middle income
+Bulgaria,Bulgaria,Bulgaria,BGR,BG,100,BU,,,110910,,,,,,BGN,Sofia,,bg,,,BG,Eastern Europe,Europe,EUR,B,Upper middle income
+Bahrain,Bahrain,Bahrain,BHR,BH,48,BA,,,665,,,,,,BHD,Manama,,bh,,,BH,Western Asia,Asia,EMR,B,High income
+Bahamas,Bahamas,"Bahamas, The",BHS,BS,44,BF,,,13940,,,,,,BSD,Nassau,,bs,,,BS,Latin America and the Caribbean,Americas,AMR,B,High income
+Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,BA,70,BK,,,51129,,,,,,BAM,Sarajevo,,ba,,,BA,Southern Europe,Europe,EUR,B,Upper middle income
+Saint Barthelemy,Saint Barthelemy,Saint Barthelemy,BLM,BL,652,TB,,,21,,,,,,EUR,Gustavia,,bl,,,FR,Latin America and the Caribbean,Americas,,,
+Belarus,Belarus,Belarus,BLR,BY,112,BO,,,207600,,,,,,BYN,Minsk,,by,,,BY,Eastern Europe,Europe,EUR,C,Upper middle income
+Belize,Belize,Belize,BLZ,BZ,84,BH,,,22966,,,,,,BZD,Belmopan,,bz,,,BZ,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Bermuda,Bermuda,Bermuda,BMU,BM,60,BD,,,53,,,,,,BMD,Hamilton,,bm,,,BM,Northern America,Americas,,,High income
+Bolivia (Plurinational State of),Bolivia,Bolivia,BOL,BO,68,BL,,,1098580,,,,,,BOB,Sucre,,bo,,,BO,Latin America and the Caribbean,Americas,AMR,D,Lower middle income
+Brazil,Brazil,Brazil,BRA,BR,76,BR,,,8511965,,,,,,BRL,Brasilia,,br,,,BR,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Barbados,Barbados,Barbados,BRB,BB,52,BB,,,431,,,,,,BBD,Bridgetown,,bb,,,BB,Latin America and the Caribbean,Americas,AMR,B,High income
+Brunei Darussalam,Brunei,Brunei,BRN,BN,96,BX,,,5770,,,,,,BND,Bandar Seri Begawan,,bn,,,BN,South-eastern Asia,Asia,WPR,A,High income
+Bhutan,Bhutan,Bhutan,BTN,BT,64,BT,,,47000,,,,,,BTN,Thimphu,,bt,,,BT,Southern Asia,Asia,SEAR,D,Lower middle income
+Bouvet Island,Bouvet Island,Bouvet Island,BVT,BV,74,BV,,,49,,,,,,NOK,,,bv,,,BV,Latin America and the Caribbean,Americas,,,
+Botswana,Botswana,Botswana,BWA,BW,72,BC,,,600370,,,,,,BWP,Gaborone,,bw,,,BW,Sub-Saharan Africa,Africa,AFR,E,Upper middle income
+Central African Republic,Central African Republic,Central African Republic,CAF,CF,140,CT,,,622984,,,,,,XAF,Bangui,,cf,,,CF,Sub-Saharan Africa,Africa,AFR,E,Low income
+Canada,Canada,Canada,CAN,CA,124,CA,,,9984670,,,,,,CAD,Ottawa,,ca,,,CA,Northern America,Americas,AMR,A,High income
+Cocos (Keeling) Islands,Cocos Islands,Cocos (Keeling) Islands,CCK,CC,166,CK,,,14,,,,,,AUD,West Island,,cc,,,CC,Australia and New Zealand,Oceania,,,
+Switzerland,Switzerland,Switzerland,CHE,CH,756,SZ,,,41290,,,,,,CHF,Bern,,ch,,,CH,Western Europe,Europe,EUR,A,High income
+Chile,Chile,Chile,CHL,CL,152,CI,,,756950,,,,,,CLP,Santiago,,cl,,,CL,Latin America and the Caribbean,Americas,AMR,B,High income
+China,China,China,CHN,CN,156,CH,,,9596960,,,,,,CNY,Beijing,,cn,,,CN,Eastern Asia,Asia,WPR,B,Upper middle income
+Cote d'Ivoire,Cote d'Ivoire,Cote d'Ivoire,CIV,CI,384,IV,,,322460,,,,,,XOF,Yamoussoukro,,ci,,,CI,Sub-Saharan Africa,Africa,AFR,E,Lower middle income
+Cameroon,Cameroon,Cameroon,CMR,CM,120,CM,,,475440,,,,,,XAF,Yaounde,,cm,,,CM,Sub-Saharan Africa,Africa,AFR,D,Lower middle income
+"Congo, Democratic Republic of the",Congo (Kinshasa),"Congo, Democratic Republic of the",COD,CD,180,CG,,,2345410,,,,,,CDF,Kinshasa,,cd,,,CD,Sub-Saharan Africa,Africa,AFR,E,Low income
+Congo,Congo (Brazzaville),"Congo, Republic of the",COG,CG,178,CF,,,342000,,,,,,XAF,Brazzaville,,cg,,,CG,Sub-Saharan Africa,Africa,AFR,E,Lower middle income
+Cook Islands,Cook Islands,Cook Islands,COK,CK,184,CW,,,240,,,,,,NZD,Avarua,,ck,,,CK,Polynesia,Oceania,WPR,B,
+Colombia,Colombia,Colombia,COL,CO,170,CO,,,1138910,,,,,,COP,Bogota,,co,,,CO,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Comoros,Comoros,Comoros,COM,KM,174,CN,,,2170,,,,,,KMF,Moroni,,km,,,KM,Sub-Saharan Africa,Africa,AFR,D,Low income
+Cabo Verde,Cabo Verde,Cabo Verde,CPV,CV,132,CV,,,4033,,,,,,CVE,Praia,,cv,,,CV,Sub-Saharan Africa,Africa,AFR,D,Lower middle income
+Costa Rica,Costa Rica,Costa Rica,CRI,CR,188,CS,,,51100,,,,,,CRC,San Jose,,cr,,,CR,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Cuba,Cuba,Cuba,CUB,CU,192,CU,,,110860,,,,,,CUP,Havana,,cu,,,CU,Latin America and the Caribbean,Americas,AMR,A,Upper middle income
+Curacao,Curacao,Curacao,CUW,CW,531,UC,,,444,,,,,,ANG,Willemstad,,cw,,,CW,Latin America and the Caribbean,Americas,,,High income
+Christmas Island,Christmas Island,Christmas Island,CXR,CX,162,KT,,,135,,,,,,AUD,Flying Fish Cove,,cx,,,CX,Australia and New Zealand,Oceania,,,
+Cayman Islands,Cayman Islands,Cayman Islands,CYM,KY,136,CJ,,,262,,,,,,KYD,George Town,,ky,,,KY,Latin America and the Caribbean,Americas,,,High income
+Cyprus,Cyprus,Cyprus,CYP,CY,196,CY,,,9250,,,,,,EUR,Nicosia,,cy,,,CY,Western Asia,Asia,EMR,B,High income
+Czechia,Czechia,Czechia,CZE,CZ,203,EZ,,,78866,,,,,,CZK,Prague,,cz,,,CZ,Eastern Europe,Europe,EUR,A,High income
+Germany,Germany,Germany,DEU,DE,276,GM,,,357021,,,,,,EUR,Berlin,,de,,,DE,Western Europe,Europe,EUR,A,High income
+Djibouti,Djibouti,Djibouti,DJI,DJ,262,DJ,,,23000,,,,,,DJF,Djibouti,,dj,,,DJ,Sub-Saharan Africa,Africa,EMR,D,Lower middle income
+Dominica,Dominica,Dominica,DMA,DM,212,DO,,,754,,,,,,XCD,Roseau,,dm,,,DM,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Denmark,Denmark,Denmark,DNK,DK,208,DA,,,43094,,,,,,DKK,Copenhagen,,dk,,,DK,Northern Europe,Europe,EUR,A,High income
+Dominican Republic,Dominican Republic,Dominican Republic,DOM,DO,214,DR,,,48730,,,,,,DOP,Santo Domingo,,do,,,DO,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Algeria,Algeria,Algeria,DZA,DZ,12,AG,,,2381740,,,,,,DZD,Algiers,,dz,,,DZ,Northern Africa,Africa,AFR,D,Upper middle income
+Ecuador,Ecuador,Ecuador,ECU,EC,218,EC,,,283560,,,,,,USD,Quito,,ec,,,EC,Latin America and the Caribbean,Americas,AMR,D,Upper middle income
+Egypt,Egypt,Egypt,EGY,EG,818,EG,,,1001450,,,,,,EGP,Cairo,,eg,,,EG,Northern Africa,Africa,EMR,D,Lower middle income
+Eritrea,Eritrea,Eritrea,ERI,ER,232,ER,,,121320,,,,,,ERN,Asmara,,er,,,ER,Sub-Saharan Africa,Africa,AFR,E,Low income
+Western Sahara,Western Sahara,Western Sahara,ESH,EH,732,WI,,,266000,,,,,,MAD,El-Aaiun,,eh,,,,Northern Africa,Africa,,,
+Spain,Spain,Spain,ESP,ES,724,SP,,,504782,,,,,,EUR,Madrid,,es,,,ES,Southern Europe,Europe,EUR,A,High income
+Estonia,Estonia,Estonia,EST,EE,233,EN,,,45226,,,,,,EUR,Tallinn,,ee,,,EE,Northern Europe,Europe,EUR,C,High income
+Ethiopia,Ethiopia,Ethiopia,ETH,ET,231,ET,,,1127127,,,,,,ETB,Addis Ababa,,et,,,ET,Sub-Saharan Africa,Africa,AFR,E,Low income
+Finland,Finland,Finland,FIN,FI,246,FI,,,337030,,,,,,EUR,Helsinki,,fi,,,FI,Northern Europe,Europe,EUR,A,High income
+Fiji,Fiji,Fiji,FJI,FJ,242,FJ,,,18270,,,,,,FJD,Suva,,fj,,,FJ,Melanesia,Oceania,WPR,B,Upper middle income
+Falkland Islands (Malvinas),Malvinas,Falkland Islands (Islas Malvinas),FLK,FK,238,FK,,,12173,,,,,,FKP,Stanley,,fk,,,FK,Latin America and the Caribbean,Americas,,,
+France,France,France,FRA,FR,250,FR,,,547030,,,,,,EUR,Paris,,fr,,,FR,Western Europe,Europe,EUR,A,High income
+Faroe Islands,Faroe Islands,Faroe Islands,FRO,FO,234,FO,,,1399,,,,,,DKK,Torshavn,,fo,,,FO,Northern Europe,Europe,,,High income
+Micronesia (Federated States of),Micronesia,"Micronesia, Federated States of",FSM,FM,583,FM,,,702,,,,,,USD,Palikir,,fm,,,FM,Micronesia,Oceania,WPR,B,Lower middle income
+Gabon,Gabon,Gabon,GAB,GA,266,GB,,,267667,,,,,,XAF,Libreville,,ga,,,GA,Sub-Saharan Africa,Africa,AFR,D,Upper middle income
+United Kingdom of Great Britain and Northern Ireland,United Kingdom,United Kingdom,GBR,GB,826,UK,,,244820,,,,,,GBP,London,,uk,,,GB,Northern Europe,Europe,EUR,A,High income
+Georgia,Georgia,Georgia,GEO,GE,268,GG,,,69700,,,,,,GEL,Tbilisi,,ge,,,GE,Western Asia,Asia,EUR,B,Lower middle income
+Guernsey,Guernsey,Guernsey,GGY,GG,831,GK,,,78,,,,,,GBP,St Peter Port,,gg,,,GG,Northern Europe,Europe,,,
+Ghana,Ghana,Ghana,GHA,GH,288,GH,,,239460,,,,,,GHS,Accra,,gh,,,GH,Sub-Saharan Africa,Africa,AFR,D,Lower middle income
+Gibraltar,Gibraltar,Gibraltar,GIB,GI,292,GI,,,6.5,,,,,,GIP,Gibraltar,,gi,,,GI,Southern Europe,Europe,,,High income
+Guinea,Guinea,Guinea,GIN,GN,324,GV,,,245857,,,,,,GNF,Conakry,,gn,,,GN,Sub-Saharan Africa,Africa,AFR,D,Low income
+Guadeloupe,Guadeloupe,,GLP,GP,312,GP,,,1780,,,,,,EUR,Basse-Terre,,gp,,,FR,Latin America and the Caribbean,Americas,,,
+Gambia,Gambia,"Gambia, The",GMB,GM,270,GA,,,11300,,,,,,GMD,Banjul,,gm,,,GM,Sub-Saharan Africa,Africa,AFR,D,Low income
+Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GNB,GW,624,PU,,,36120,,,,,,XOF,Bissau,,gw,,,GW,Sub-Saharan Africa,Africa,AFR,D,Low income
+Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,GNQ,GQ,226,EK,,,28051,,,,,,XAF,Malabo,,gq,,,GQ,Sub-Saharan Africa,Africa,,,Upper middle income
+Greece,Greece,Greece,GRC,GR,300,GR,,,131940,,,,,,EUR,Athens,,gr,,,GR,Southern Europe,Europe,EUR,A,High income
+Grenada,Grenada,Grenada,GRD,GD,308,GJ,,,344,,,,,,XCD,St. George's,,gd,,,GD,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Greenland,Greenland,Greenland,GRL,GL,304,GL,,,2166086,,,,,,DKK,Nuuk,,gl,,,GL,Northern America,Americas,,,High income
+Guatemala,Guatemala,Guatemala,GTM,GT,320,GT,,,108890,,,,,,GTQ,Guatemala City,,gt,,,GT,Latin America and the Caribbean,Americas,AMR,D,Upper middle income
+French Guiana,French Guiana,,GUF,GF,254,FG,,,91000,,,,,,EUR,Cayenne,,gf,,,FR,Latin America and the Caribbean,Americas,,,
+Guam,Guam,Guam,GUM,GU,316,GQ,,,549,,,,,,USD,Hagatna,,gu,,,US,Micronesia,Oceania,,,High income
+Guyana,Guyana,Guyana,GUY,GY,328,GY,,,214970,,,,,,GYD,Georgetown,,gy,,,GY,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Hong Kong,Hong Kong,Hong Kong,HKG,HK,344,HK,,,1092,,,,,,HKD,Hong Kong,,hk,,,CN,Eastern Asia,Asia,,,High income
+Heard Island and McDonald Islands,Heard Island and McDonald Islands,Heard Island and McDonald Islands,HMD,HM,334,HM,,,412,,,,,,AUD,,,hm,,,HM,Australia and New Zealand,Oceania,,,
+Honduras,Honduras,Honduras,HND,HN,340,HO,,,112090,,,,,,HNL,Tegucigalpa,,hn,,,HN,Latin America and the Caribbean,Americas,AMR,B,Lower middle income
+Croatia,Croatia,Croatia,HRV,HR,191,HR,,,56542,,,,,,HRK,Zagreb,,hr,,,HR,Southern Europe,Europe,EUR,A,High income
+Haiti,Haiti,Haiti,HTI,HT,332,HA,,,27750,,,,,,HTG,Port-au-Prince,,ht,,,HT,Latin America and the Caribbean,Americas,AMR,D,Low income
+Hungary,Hungary,Hungary,HUN,HU,348,HU,,,93030,,,,,,HUF,Budapest,,hu,,,HU,Eastern Europe,Europe,EUR,C,High income
+Indonesia,Indonesia,Indonesia,IDN,ID,360,ID,,,1919440,,,,,,IDR,Jakarta,,id,,,ID,South-eastern Asia,Asia,SEAR,B,Lower middle income
+Isle of Man,Isle of Man,Isle of Man,IMN,IM,833,IM,,,572,,,,,,GBP,Douglas,,im,,,IM,Northern Europe,Europe,,,High income
+India,India,India,IND,IN,356,IN,,,3287590,,,,,,INR,New Delhi,,in,,,IN,Southern Asia,Asia,SEAR,D,Lower middle income
+British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,IOT,IO,86,IO,,,60,,,,,,USD,Diego Garcia,,io,,,IO,Sub-Saharan Africa,Africa,,,
+Ireland,Ireland,Ireland,IRL,IE,372,EI,,,70280,,,,,,EUR,Dublin,,ie,,,IE,Northern Europe,Europe,EUR,A,High income
+Iran (Islamic Republic of),Iran,Iran,IRN,IR,364,IR,,,1648000,,,,,,IRR,Tehran,,ir,,,IR,Southern Asia,Asia,EMR,B,Upper middle income
+Iraq,Iraq,Iraq,IRQ,IQ,368,IZ,,,437072,,,,,,IQD,Baghdad,,iq,,,IQ,Western Asia,Asia,EMR,D,Upper middle income
+Iceland,Iceland,Iceland,ISL,IS,352,IC,,,103000,,,,,,ISK,Reykjavik,,is,,,IS,Northern Europe,Europe,EUR,A,High income
+Israel,Israel,Israel,ISR,IL,376,IS,,,20770,,,,,,ILS,Jerusalem,,il,,,IL,Western Asia,Asia,EUR,A,High income
+Italy,Italy,Italy,ITA,IT,380,IT,,,301230,,,,,,EUR,Rome,,it,,,IT,Southern Europe,Europe,EUR,A,High income
+Jamaica,Jamaica,Jamaica,JAM,JM,388,JM,,,10991,,,,,,JMD,Kingston,,jm,,,JM,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Jersey,Jersey,Jersey,JEY,JE,832,JE,,,116,,,,,,GBP,Saint Helier,,je,,,JE,Northern Europe,Europe,,,
+Jordan,Jordan,Jordan,JOR,JO,400,JO,,,92300,,,,,,JOD,Amman,,jo,,,JO,Western Asia,Asia,EMR,B,Upper middle income
+Japan,Japan,Japan,JPN,JP,392,JA,,,377835,,,,,,JPY,Tokyo,,jp,,,JP,Eastern Asia,Asia,WPR,A,High income
+Kazakhstan,Kazakhstan,Kazakhstan,KAZ,KZ,398,KZ,,,2717300,,,,,,KZT,Nur-Sultan,,kz,,,KZ,Central Asia,Asia,EUR,C,Upper middle income
+Kenya,Kenya,Kenya,KEN,KE,404,KE,,,582650,,,,,,KES,Nairobi,,ke,,,KE,Sub-Saharan Africa,Africa,AFR,E,Lower middle income
+Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,KGZ,KG,417,KG,,,198500,,,,,,KGS,Bishkek,,kg,,,KG,Central Asia,Asia,EUR,B,Lower middle income
+Cambodia,Cambodia,Cambodia,KHM,KH,116,CB,,,181040,,,,,,KHR,Phnom Penh,,kh,,,KH,South-eastern Asia,Asia,WPR,B,Lower middle income
+Kiribati,Kiribati,Kiribati,KIR,KI,296,KR,,,811,,,,,,AUD,Tarawa,,ki,,,KI,Micronesia,Oceania,WPR,B,Lower middle income
+Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,KNA,KN,659,SC,,,261,,,,,,XCD,Basseterre,,kn,,,KN,Latin America and the Caribbean,Americas,AMR,B,High income
+"Korea, Republic of",South Korea,"Korea, South",KOR,KR,410,KS,,,98480,,,,,,KRW,Seoul,,kr,,,KR,Eastern Asia,Asia,WPR,B,High income
+Kuwait,Kuwait,Kuwait,KWT,KW,414,KU,,,17820,,,,,,KWD,Kuwait City,,kw,,,KW,Western Asia,Asia,EMR,B,High income
+Lao People's Democratic Republic,Laos,Laos,LAO,LA,418,LA,,,236800,,,,,,LAK,Vientiane,,la,,,LA,South-eastern Asia,Asia,WPR,B,Lower middle income
+Lebanon,Lebanon,Lebanon,LBN,LB,422,LE,,,10400,,,,,,LBP,Beirut,,lb,,,LB,Western Asia,Asia,EMR,B,Upper middle income
+Liberia,Liberia,Liberia,LBR,LR,430,LI,,,111370,,,,,,LRD,Monrovia,,lr,,,LR,Sub-Saharan Africa,Africa,AFR,D,Low income
+Libya,Libya,Libya,LBY,LY,434,LY,,,1759540,,,,,,LYD,Tripoli,,ly,,,LY,Northern Africa,Africa,EMR,B,Upper middle income
+Saint Lucia,Saint Lucia,Saint Lucia,LCA,LC,662,ST,,,616,,,,,,XCD,Castries,,lc,,,LC,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Liechtenstein,Liechtenstein,Liechtenstein,LIE,LI,438,LS,,,160,,,,,,CHF,Vaduz,,li,,,LI,Western Europe,Europe,,,High income
+Sri Lanka,Sri Lanka,Sri Lanka,LKA,LK,144,CE,,,65610,,,,,,LKR,Colombo,,lk,,,LK,Southern Asia,Asia,SEAR,B,Lower middle income
+Lesotho,Lesotho,Lesotho,LSO,LS,426,LT,,,30355,,,,,,LSL,Maseru,,ls,,,LS,Sub-Saharan Africa,Africa,AFR,E,Lower middle income
+Lithuania,Lithuania,Lithuania,LTU,LT,440,LH,,,65200,,,,,,EUR,Vilnius,,lt,,,LT,Northern Europe,Europe,EUR,C,High income
+Luxembourg,Luxembourg,Luxembourg,LUX,LU,442,LU,,,2586,,,,,,EUR,Luxembourg,,lu,,,LU,Western Europe,Europe,EUR,A,High income
+Latvia,Latvia,Latvia,LVA,LV,428,LG,,,64589,,,,,,EUR,Riga,,lv,,,LV,Northern Europe,Europe,EUR,C,High income
+Macau,Macau,Macau,MAC,MO,446,MC,,,254,,,,,,MOP,Macao,,mo,,,CN,Eastern Asia,Asia,,,High income
+Saint Martin (French part),Saint Martin,Saint Martin,MAF,MF,663,RN,,,53,,,,,,EUR,Marigot,,mf,,,FR,Latin America and the Caribbean,Americas,,,High income
+Morocco,Morocco,Morocco,MAR,MA,504,MO,,,446550,,,,,,MAD,Rabat,,ma,,,MA,Northern Africa,Africa,EMR,D,Lower middle income
+Monaco,Monaco,Monaco,MCO,MC,492,MN,,,1.95,,,,,,EUR,Monaco,,mc,,,MC,Western Europe,Europe,EUR,A,High income
+"Moldova, Republic of",Moldova,Moldova,MDA,MD,498,MD,,,33843,,,,,,MDL,Chisinau,,md,,,MD,Eastern Europe,Europe,EUR,C,Lower middle income
+Madagascar,Madagascar,Madagascar,MDG,MG,450,MA,,,587040,,,,,,MGA,Antananarivo,,mg,,,MG,Sub-Saharan Africa,Africa,AFR,D,Low income
+Maldives,Maldives,Maldives,MDV,MV,462,MV,,,300,,,,,,MVR,Male,,mv,,,MV,Southern Asia,Asia,SEAR,D,Upper middle income
+Mexico,Mexico,Mexico,MEX,MX,484,MX,,,1972550,,,,,,MXN,Mexico City,,mx,,,MX,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Marshall Islands,Marshall Islands,Marshall Islands,MHL,MH,584,RM,,,181.3,,,,,,USD,Majuro,,mh,,,MH,Micronesia,Oceania,WPR,B,Upper middle income
+North Macedonia,North Macedonia,Macedonia,MKD,MK,807,MK,,,25333,,,,,,MKD,Skopje,,mk,,,MK,Southern Europe,Europe,EUR,B,Upper middle income
+Mali,Mali,Mali,MLI,ML,466,ML,,,1240000,,,,,,XOF,Bamako,,ml,,,ML,Sub-Saharan Africa,Africa,AFR,D,Low income
+Malta,Malta,Malta,MLT,MT,470,MT,,,316,,,,,,EUR,Valletta,,mt,,,MT,Southern Europe,Europe,EUR,A,High income
+Myanmar (Burma),Myanmar,Burma,MMR,MM,104,BM,,,678500,,,,,,MMK,Nay Pyi Taw,,mm,,,MM,South-eastern Asia,Asia,SEAR,D,Lower middle income
+Montenegro,Montenegro,Montenegro,MNE,ME,499,MJ,,,14026,,,,,,EUR,Podgorica,,me,,,ME,Southern Europe,Europe,,,Upper middle income
+Mongolia,Mongolia,Mongolia,MNG,MN,496,MG,,,1565000,,,,,,MNT,Ulaanbaatar,,mn,,,MN,Eastern Asia,Asia,WPR,B,Lower middle income
+Northern Mariana Islands,Northern Mariana Islands,Northern Mariana Islands,MNP,MP,580,CQ,,,477,,,,,,USD,Saipan,,mp,,,US,Micronesia,Oceania,,,High income
+Mozambique,Mozambique,Mozambique,MOZ,MZ,508,MZ,,,801590,,,,,,MZN,Maputo,,mz,,,MZ,Sub-Saharan Africa,Africa,AFR,E,Low income
+Mauritania,Mauritania,Mauritania,MRT,MR,478,MR,,,1030700,,,,,,MRO,Nouakchott,,mr,,,MR,Sub-Saharan Africa,Africa,AFR,D,Lower middle income
+Montserrat,Montserrat,Montserrat,MSR,MS,500,MH,,,102,,,,,,XCD,Plymouth,,ms,,,MS,Latin America and the Caribbean,Americas,,,
+Martinique,Martinique,,MTQ,MQ,474,MB,,,1100,,,,,,EUR,Fort-de-France,,mq,,,FR,Latin America and the Caribbean,Americas,,,
+Mauritius,Mauritius,Mauritius,MUS,MU,480,MP,,,2040,,,,,,MUR,Port Louis,,mu,,,MU,Sub-Saharan Africa,Africa,AFR,D,Upper middle income
+Malawi,Malawi,Malawi,MWI,MW,454,MI,,,118480,,,,,,MWK,Lilongwe,,mw,,,MW,Sub-Saharan Africa,Africa,AFR,E,Low income
+Malaysia,Malaysia,Malaysia,MYS,MY,458,MY,,,329750,,,,,,MYR,Kuala Lumpur,,my,,,MY,South-eastern Asia,Asia,WPR,B,Upper middle income
+Mayotte,Mayotte,,MYT,YT,175,MF,,,374,,,,,,EUR,Mamoudzou,,yt,,,FR,Sub-Saharan Africa,Africa,,,
+Namibia,Namibia,Namibia,NAM,NA,516,WA,,,825418,,,,,,NAD,Windhoek,,na,,,NA,Sub-Saharan Africa,Africa,AFR,E,Upper middle income
+New Caledonia,New Caledonia,New Caledonia,NCL,NC,540,NC,,,19060,,,,,,XPF,Noumea,,nc,,,FR,Melanesia,Oceania,,,High income
+Niger,Niger,Niger,NER,NE,562,NG,,,1267000,,,,,,XOF,Niamey,,ne,,,NE,Sub-Saharan Africa,Africa,AFR,D,Low income
+Norfolk Island,Norfolk Island,Norfolk Island,NFK,NF,574,NF,,,34.6,,,,,,AUD,Kingston,,nf,,,NF,Australia and New Zealand,Oceania,,,
+Nigeria,Nigeria,Nigeria,NGA,NG,566,NI,,,923768,,,,,,NGN,Abuja,,ng,,,NG,Sub-Saharan Africa,Africa,AFR,D,Lower middle income
+Nicaragua,Nicaragua,Nicaragua,NIC,NI,558,NU,,,129494,,,,,,NIO,Managua,,ni,,,NI,Latin America and the Caribbean,Americas,AMR,D,Lower middle income
+Niue,Niue,Niue,NIU,NU,570,NE,,,260,,,,,,NZD,Alofi,,nu,,,NU,Polynesia,Oceania,WPR,B,
+Netherlands,Netherlands,Netherlands,NLD,NL,528,NL,,,41526,,,,,,EUR,Amsterdam,,nl,,,NL,Western Europe,Europe,EUR,A,High income
+Norway,Norway,Norway,NOR,NO,578,NO,,,324220,,,,,,NOK,Oslo,,no,,,NO,Northern Europe,Europe,EUR,A,High income
+Nepal,Nepal,Nepal,NPL,NP,524,NP,,,140800,,,,,,NPR,Kathmandu,,np,,,NP,Southern Asia,Asia,SEAR,D,Low income
+Nauru,Nauru,Nauru,NRU,NR,520,NR,,,21,,,,,,AUD,Yaren,,nr,,,NR,Micronesia,Oceania,WPR,B,Upper middle income
+New Zealand,New Zealand,New Zealand,NZL,NZ,554,NZ,,,268680,,,,,,NZD,Wellington,,nz,,,NU,Australia and New Zealand,Oceania,WPR,A,High income
+Oman,Oman,Oman,OMN,OM,512,MU,,,212460,,,,,,OMR,Muscat,,om,,,OM,Western Asia,Asia,EMR,B,High income
+Pakistan,Pakistan,Pakistan,PAK,PK,586,PK,,,803940,,,,,,PKR,Islamabad,,pk,,,PK,Southern Asia,Asia,EMR,D,Lower middle income
+Panama,Panama,Panama,PAN,PA,591,PM,,,78200,,,,,,PAB,Panama City,,pa,,,PA,Latin America and the Caribbean,Americas,AMR,B,High income
+Pitcairn Island,Pitcairn,Pitcairn Islands,PCN,PN,612,PC,,,47,,,,,,NZD,Adamstown,,pn,,,PN,Polynesia,Oceania,,,
+Peru,Peru,Peru,PER,PE,604,PE,,,1285220,,,,,,PEN,Lima,,pe,,,PE,Latin America and the Caribbean,Americas,AMR,D,Upper middle income
+Philippines,Philippines,Philippines,PHL,PH,608,RP,,,300000,,,,,,PHP,Manila,,ph,,,PH,South-eastern Asia,Asia,WPR,B,Lower middle income
+Palau,Palau,Palau,PLW,PW,585,PS,,,458,,,,,,USD,Melekeok,,pw,,,PW,Micronesia,Oceania,WPR,B,High income
+Papua New Guinea,Papua New Guinea,Papua New Guinea,PNG,PG,598,PP,,,462840,,,,,,PGK,Port Moresby,,pg,,,PG,Melanesia,Oceania,WPR,B,Lower middle income
+Poland,Poland,Poland,POL,PL,616,PL,,,312685,,,,,,PLN,Warsaw,,pl,,,PL,Eastern Europe,Europe,EUR,B,High income
+Puerto Rico,Puerto Rico,Puerto Rico,PRI,PR,630,RQ,,,9104,,,,,,USD,San Juan,,pr,,,US,Latin America and the Caribbean,Americas,,,High income
+Korea (Democratic People's Republic of),North Korea,"Korea, North",PRK,KP,408,KN,,,120540,,,,,,KPW,Pyongyang,,kp,,,KP,Eastern Asia,Asia,SEAR,D,Low income
+Portugal,Portugal,Portugal,PRT,PT,620,PO,,,92391,,,,,,EUR,Lisbon,,pt,,,PT,Southern Europe,Europe,EUR,A,High income
+Paraguay,Paraguay,Paraguay,PRY,PY,600,PA,,,406750,,,,,,PYG,Asuncion,,py,,,PY,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+"Palestine, State of",Palestine,West Bank,PSE,PS,275,WE,,,5970,,,,,,ILS,East Jerusalem,,ps,,,PS,Western Asia,Asia,,,Lower middle income
+French Polynesia,French Polynesia,French Polynesia,PYF,PF,258,FP,,,4167,,,,,,XPF,Papeete,,pf,,,FR,Polynesia,Oceania,,,High income
+Qatar,Qatar,Qatar,QAT,QA,634,QA,,,11437,,,,,,QAR,Doha,,qa,,,QA,Western Asia,Asia,EMR,B,High income
+Reunion,Reunion,,REU,RE,638,RE,,,2517,,,,,,EUR,Saint-Denis,,re,,,RE,Sub-Saharan Africa,Africa,,,
+Romania,Romania,Romania,ROU,RO,642,RO,,,237500,,,,,,RON,Bucharest,,ro,,,RO,Eastern Europe,Europe,EUR,B,Upper middle income
+Russian Federation,Russia,Russia,RUS,RU,643,RS,,,17100000,,,,,,RUB,Moscow,,ru,,,RU,Eastern Europe,Europe,EUR,C,Upper middle income
+Rwanda,Rwanda,Rwanda,RWA,RW,646,RW,,,26338,,,,,,RWF,Kigali,,rw,,,RW,Sub-Saharan Africa,Africa,AFR,E,Low income
+Saudi Arabia,Saudi Arabia,Saudi Arabia,SAU,SA,682,SA,,,1960582,,,,,,SAR,Riyadh,,sa,,,SA,Western Asia,Asia,EMR,B,High income
+Sudan,Sudan,Sudan,SDN,SD,729,SU,,,1861484,,,,,,SDG,Khartoum,,sd,,,SD,Northern Africa,Africa,EMR,D,Lower middle income
+Senegal,Senegal,Senegal,SEN,SN,686,SG,,,196190,,,,,,XOF,Dakar,,sn,,,SN,Sub-Saharan Africa,Africa,AFR,D,Low income
+Singapore,Singapore,Singapore,SGP,SG,702,SN,,,692.7,,,,,,SGD,Singapore,,sg,,,SG,South-eastern Asia,Asia,WPR,A,High income
+South Georgia and the South Sandwich Islands,South Georgia and South Sandwich Islands,South Georgia and South Sandwich Islands,SGS,GS,239,SX,,,3903,,,,,,GBP,Grytviken,,gs,,,GS,Latin America and the Caribbean,Americas,,,
+"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension, and Tristan da Cunha",SHN,SH,654,SH,,,410,,,,,,SHP,Jamestown,,sh,,,SH,Sub-Saharan Africa,Africa,,,
+Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard,SJM,SJ,744,SV,,,62049,,,,,,NOK,Longyearbyen,,sj,,,NO,Northern Europe,Europe,,,
+Solomon Islands,Solomon Islands,Solomon Islands,SLB,SB,90,BP,,,28450,,,,,,SBD,Honiara,,sb,,,SB,Melanesia,Oceania,WPR,B,Lower middle income
+Sierra Leone,Sierra Leone,Sierra Leone,SLE,SL,694,SL,,,71740,,,,,,SLL,Freetown,,sl,,,SL,Sub-Saharan Africa,Africa,AFR,D,Low income
+El Salvador,El Salvador,El Salvador,SLV,SV,222,ES,,,21040,,,,,,USD,San Salvador,,sv,,,SV,Latin America and the Caribbean,Americas,AMR,B,Lower middle income
+San Marino,San Marino,San Marino,SMR,SM,674,SM,,,61.2,,,,,,EUR,San Marino,,sm,,,SM,Southern Europe,Europe,EUR,A,High income
+Somalia,Somalia,Somalia,SOM,SO,706,SO,,,637657,,,,,,SOS,Mogadishu,,so,,,SO,Sub-Saharan Africa,Africa,EMR,D,Low income
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon,SPM,PM,666,SB,,,242,,,,,,EUR,Saint-Pierre,,pm,,,FR,Northern America,Americas,,,
+Serbia,Serbia,Serbia,SRB,RS,688,RI,,,88361,,,,,,RSD,Belgrade,,rs,,,RS,Southern Europe,Europe,,,Upper middle income
+South Sudan,South Sudan,South Sudan,SSD,SS,728,OD,,,644329,,,,,,SSP,Juba,,,,,SS,Sub-Saharan Africa,Africa,,,Low income
+Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,STP,ST,678,TP,,,1001,,,,,,STD,Sao Tome,,st,,,ST,Sub-Saharan Africa,Africa,AFR,D,Lower middle income
+Suriname,Suriname,Suriname,SUR,SR,740,NS,,,163270,,,,,,SRD,Paramaribo,,sr,,,SR,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Slovakia,Slovakia,Slovakia,SVK,SK,703,LO,,,48845,,,,,,EUR,Bratislava,,sk,,,SK,Eastern Europe,Europe,EUR,B,High income
+Slovenia,Slovenia,Slovenia,SVN,SI,705,SI,,,20273,,,,,,EUR,Ljubljana,,si,,,SI,Southern Europe,Europe,EUR,A,High income
+Sweden,Sweden,Sweden,SWE,SE,752,SW,,,449964,,,,,,SEK,Stockholm,,se,,,SE,Northern Europe,Europe,EUR,A,High income
+Eswatini,Swaziland,Eswatini,SWZ,SZ,748,WZ,,,17363,,,,,,SZL,Mbabane,,sz,,,SZ,Sub-Saharan Africa,Africa,AFR,E,Lower middle income
+Sint Maarten (Dutch part),Sint Maarten,Sint Maarten,SXM,SX,534,NN,,,21,,,,,,ANG,Philipsburg,,sx,,,SX,Latin America and the Caribbean,Americas,,,High income
+Seychelles,Seychelles,Seychelles,SYC,SC,690,SE,,,455,,,,,,SCR,Victoria,,sc,,,SC,Sub-Saharan Africa,Africa,AFR,D,High income
+Syrian Arab Republic,Syria,Syria,SYR,SY,760,SY,,,185180,,,,,,SYP,Damascus,,sy,,,SY,Western Asia,Asia,EMR,B,Low income
+Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,TCA,TC,796,TK,,,430,,,,,,USD,Cockburn Town,,tc,,,TC,Latin America and the Caribbean,Americas,,,High income
+Chad,Chad,Chad,TCD,TD,148,CD,,,1284000,,,,,,XAF,N'Djamena,,td,,,TD,Sub-Saharan Africa,Africa,AFR,D,Low income
+Togo,Togo,Togo,TGO,TG,768,TO,,,56785,,,,,,XOF,Lome,,tg,,,TG,Sub-Saharan Africa,Africa,AFR,D,Low income
+Thailand,Thailand,Thailand,THA,TH,764,TH,,,514000,,,,,,THB,Bangkok,,th,,,TH,South-eastern Asia,Asia,SEAR,B,Upper middle income
+Tajikistan,Tajikistan,Tajikistan,TJK,TJ,762,TI,,,143100,,,,,,TJS,Dushanbe,,tj,,,TJ,Central Asia,Asia,EUR,B,Low income
+Tokelau,Tokelau,Tokelau,TKL,TK,772,TL,,,10,,,,,,NZD,,,tk,,,TK,Polynesia,Oceania,,,
+Turkmenistan,Turkmenistan,Turkmenistan,TKM,TM,795,TX,,,488100,,,,,,TMT,Ashgabat,,tm,,,TM,Central Asia,Asia,EUR,B,Upper middle income
+Timor-Leste,Timor-Leste,Timor-Leste,TLS,TL,626,TT,,,15007,,,,,,USD,Dili,,tl,,,TL,South-eastern Asia,Asia,SEAR,D,Lower middle income
+Tonga,Tonga,Tonga,TON,TO,776,TN,,,748,,,,,,TOP,Nuku'alofa,,to,,,TO,Polynesia,Oceania,WPR,B,Upper middle income
+Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TTO,TT,780,TD,,,5128,,,,,,TTD,Port of Spain,,tt,,,TT,Latin America and the Caribbean,Americas,AMR,B,High income
+Tunisia,Tunisia,Tunisia,TUN,TN,788,TS,,,163610,,,,,,TND,Tunis,,tn,,,TN,Northern Africa,Africa,EMR,B,Lower middle income
+Turkey,Turkey,Turkey,TUR,TR,792,TU,,,780580,,,,,,TRY,Ankara,,tr,,,TR,Western Asia,Asia,EUR,B,Upper middle income
+Tuvalu,Tuvalu,Tuvalu,TUV,TV,798,TV,,,26,,,,,,AUD,Funafuti,,tv,,,TV,Polynesia,Oceania,WPR,B,Upper middle income
+"Taiwan, Province of China",Taiwan,Taiwan,TWN,TW,158,TW,,,35980,,,,,,TWD,Taipei,,tw,,,CN,Eastern Asia,Asia,,,High income
+"Tanzania, United Republic of",Tanzania,Tanzania,TZA,TZ,834,TZ,,,945087,,,,,,TZS,Dodoma,,tz,,,TZ,Sub-Saharan Africa,Africa,AFR,E,Low income
+Uganda,Uganda,Uganda,UGA,UG,800,UG,,,236040,,,,,,UGX,Kampala,,ug,,,UG,Sub-Saharan Africa,Africa,AFR,E,Low income
+Ukraine,Ukraine,Ukraine,UKR,UA,804,UP,,,603700,,,,,,UAH,Kyiv,,ua,,,UA,Eastern Europe,Europe,EUR,C,Lower middle income
+United States Minor Outlying Islands,United States Minor Outlying Islands,,UMI,UM,581,,,,,,,,,,USD,,,um,,,US,Micronesia,Oceania,,,
+Uruguay,Uruguay,Uruguay,URY,UY,858,UY,,,176220,,,,,,UYU,Montevideo,,uy,,,UY,Latin America and the Caribbean,Americas,AMR,B,High income
+United States of America,United States,United States,USA,US,840,US,,,9629091,,,,,,USD,Washington,,us,,,US,Northern America,Americas,AMR,A,High income
+Uzbekistan,Uzbekistan,Uzbekistan,UZB,UZ,860,UZ,,,447400,,,,,,UZS,Tashkent,,uz,,,UZ,Central Asia,Asia,EUR,B,Lower middle income
+Holy See (Vatican City),Vatican City,Holy See (Vatican City),VAT,VA,336,VT,,,0.44,,,,,,EUR,Vatican City,,va,,,VA,Southern Europe,Europe,,,
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VCT,VC,670,VC,,,389,,,,,,XCD,Kingstown,,vc,,,VC,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Venezuela (Bolivarian Republic of),Venezuela,Venezuela,VEN,VE,862,VE,,,912050,,,,,,VES,Caracas,,ve,,,VE,Latin America and the Caribbean,Americas,AMR,B,Upper middle income
+Virgin Islands (British),British Virgin Islands,British Virgin Islands,VGB,VG,92,VI,,,153,,,,,,USD,Road Town,,vg,,,VG,Latin America and the Caribbean,Americas,,,High income
+Virgin Islands (U.S.),Virgin Islands,Virgin Islands,VIR,VI,850,VQ,,,352,,,,,,USD,Charlotte Amalie,,vi,,,US,Latin America and the Caribbean,Americas,,,High income
+Viet Nam,Vietnam,Vietnam,VNM,VN,704,VM,,,329560,,,,,,VND,Hanoi,,vn,,,VN,South-eastern Asia,Asia,WPR,B,Lower middle income
+Vanuatu,Vanuatu,Vanuatu,VUT,VU,548,NH,,,12200,,,,,,VUV,Port Vila,,vu,,,VU,Melanesia,Oceania,WPR,B,Lower middle income
+Wallis and Futuna,Wallis and Futuna,Wallis and Futuna,WLF,WF,876,WF,,,274,,,,,,XPF,Mata Utu,,wf,,,FR,Polynesia,Oceania,,,
+Samoa,Samoa,Samoa,WSM,WS,882,WS,,,2944,,,,,,WST,Apia,,ws,,,WS,Polynesia,Oceania,WPR,B,Upper middle income
+Yemen,Yemen,Yemen,YEM,YE,887,YM,,,527970,,,,,,YER,Sanaa,,ye,,,YE,Western Asia,Asia,EMR,D,Low income
+South Africa,South Africa,South Africa,ZAF,ZA,710,SF,,,1219912,,,,,,ZAR,Pretoria,,za,,,ZA,Sub-Saharan Africa,Africa,AFR,E,Upper middle income
+Zambia,Zambia,Zambia,ZMB,ZM,894,ZA,,,752614,,,,,,ZMW,Lusaka,,zm,,,ZM,Sub-Saharan Africa,Africa,,,Lower middle income
+Zimbabwe,Zimbabwe,Zimbabwe,ZWE,ZW,716,ZI,,,390580,,,,,,ZWL,Harare,,zw,,,ZW,Sub-Saharan Africa,Africa,AFR,E,Low income
