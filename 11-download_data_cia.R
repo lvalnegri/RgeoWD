@@ -65,12 +65,22 @@ dbSendQuery(dbc, "TRUNCATE TABLE factvalues")
 dbWriteTable(dbc, 'factvalues', dts, row.names = FALSE, append = TRUE)
 dbDisconnect(dbc)
 
-# save as fst
-write_fst(vars, file.path(data_path, 'factbook'))
-write_fst(dts, file.path(data_path, 'factvalues'))
-
-# update geodemo columns in countries table and dataset
-
+# update geodemo columns in countries table
+var_ids <- c('area' = 279, 'pop' = 335, 'gdp' = 208, 'life_exp' = 355)
+dbc <- dbConnect(MySQL(), group = 'dataOps', dbname = 'geography_wd')
+for(idx in 1:length(var_ids))
+    dbSendQuery(dbc, paste0("
+        UPDATE countries c 
+            JOIN (SELECT iso3, value FROM factvalues WHERE var_id = ", var_ids[idx], ") t on t.iso3 = c.iso3 
+        SET c.", names(var_ids)[idx], " = t.value", ifelse(var_ids[idx] %in% c(208), '/1000000', '')
+    ))
+dbDisconnect(dbc)
+  
+# retrieve updated countries table, then save as fst
+dbc <- dbConnect(MySQL(), group = 'dataOps', dbname = 'geography_wd')
+cnt <- dbReadTable(dbc, 'countries')
+dbDisconnect(dbc)
+write_fst(cnt, file.path(data_path, 'countries'))
 
 # clean and exit
 rm(list = ls())
