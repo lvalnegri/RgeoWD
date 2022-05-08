@@ -1,50 +1,17 @@
-Package: dmpkg.???
+Package: RgeoWD
 Type: Package
-Date: 2021-12-25
-Title: ???
+Date: 2022-05-31
+Title: Datasets and Geographical Vector Boundaries related to World Countries
 Version: 0.0.1
 Authors@R: person("Luca", "Valnegri", email = "l.valnegri@datamaps.co.uk", role = c("aut", "cre"))
-Description: This package consists of functions designed to help Data Sourcing, Cleaning and Wrangling, plus a bunch of other visualization and geographical stuff.
+Description: This package consists of datasets and digital vector boundaries designed to help 
+    geographical data visualization and spatial analysis for countries of macro-areas.
 License: file LICENSE
 Encoding: UTF-8
-Depends: R (>= 4.0)
+Depends: R (>= 4.2.0)
 Imports:
     data.table,
-    classInt,
-    DBI,
-    DT,
-    dggridR,
-    dplyr,
-    dygraphs,
-    fasttime,
-    forcats,
-    fst,
-    geosphere,
-    ggplot2,
-    htmltab,
-    htmlTable,
-    htmltools,
-    htmlwidgets,
-    ISOweek,
-    leaflet,
-    leaflet.extras,
-    maptools,
-    raster,
-    RColorBrewer,
-    readxl,
-    rgdal,
-    rgeos,
-    rmapshaper,
-    rvest,
-    RMySQL,
-    RODBC,
-    sp,
-    spatstat,
-    spdep,
-    stringr,
-    tidyr,
-    tmap,
-    viridis
+    sf
 Suggests:
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
