@@ -22,5 +22,5 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
-projects-geography_wd.Rproj
 .Rbuildignore
+RgeoWD.Rproj
